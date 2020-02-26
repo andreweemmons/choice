@@ -1,0 +1,45 @@
+body {
+  background-color: #fffdf8;
+}
+
+
+
+.ui.borderless.center.menu {
+  margin-top: -15px;
+  border: none;
+  box-shadow: none;
+  font-family: 'Spartan';
+  font-size: 1.3em;
+}
+
+.ui.centered.logo.image {
+  margin-top: 1.5em;
+  height: 90px;
+}
+
+.background{
+  background-image: url("https://www.edsheeran.com/sites/g/files/g2000006291/f/201912/ed%20thumb.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  height: 500px;
+}
+
+.ui.basic.button {
+  margin-top: 250px;
+}
+
+.tour {
+  font-family: 'Spartan';
+  font-size: 1.5em;
+  color: black;
+  margin-top: 58px;
+}
+
+hr {
+  margin-top: -.5em;
+  border: solid;
+  color: black;
+  background-color: black;
+  width: 78%;
+}
